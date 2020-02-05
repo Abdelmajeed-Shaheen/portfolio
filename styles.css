@@ -18,7 +18,7 @@ body {
 	padding:0;
 	text-align: center;
 	width:auto;
-	
+
 }
 .wrapper {
 min-height: calc(100vh - 70px);
@@ -35,7 +35,7 @@ img{
 }
 .column1 {
   float: left;
-  width: 20%; 
+  width: 20%;
   text-align:center;
 
 }
@@ -55,6 +55,12 @@ img{
 h3{
 	color: blue;
 }
+ul{
+	list-style-type:none;
+	font-size: 16px;
+	float: right;
+	text-align: left;
+}
 .hobi{
 	margin : 30px;
 }
@@ -68,4 +74,3 @@ h3{
 	color: white;
 	text-align:left;
 }
-
